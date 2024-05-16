@@ -1,7 +1,9 @@
+import ValuableForm from "./components/ValuableForm";
+
 function App() {
   return (
     <div>
-      <h1>This is the new app!</h1>
+      <ValuableForm></ValuableForm>
     </div>
   );
 }
